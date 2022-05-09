@@ -1,4 +1,4 @@
-# pandas-challenge
+# HeroesOfPymoli 
 
 HeroesOfPymoli
 Purchase data analysis performed including:
